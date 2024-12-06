@@ -6,7 +6,7 @@ let handler = m => m;
 handler.all = async function (m, conn) {
     let img =["https://telegra.ph/file/f7799a1459cac6eb1346c.png",
              "https://telegra.ph/file/4e84292a76a07ab824228.png"];
-    let num = "201146121794";
+    let num = "967778668253";
     let img1 = await img[Math.floor(img.length * Math.random())];
     if (m.mentionedJid && m.mentionedJid[0]) {
         let phoneNumber = m.mentionedJid[0].replace(/[^0-9]/g, '');
