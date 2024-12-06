@@ -3,7 +3,7 @@ import fs from 'fs';
 import jimp from 'jimp';
 
 let handler = async (m, { conn, usedPrefix, text, args, command }) => {
-  let watermark = 'عمك ياض';
+  let watermark = 'عمك دزاري;
 
   // جهز الرسائل الوهمية المختلفة
   let fakeContact = { 
