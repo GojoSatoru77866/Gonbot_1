@@ -14,8 +14,8 @@ global.owner = [
   ['201146121794', '🇵🇸𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍🇵🇸', true],
 ];
 
-global.suittag = ['201146121794'];
-global.prems = ['201146121794'];
+global.suittag = ['967778668253'];
+global.prems = ['967778668253'];
 
 global.packname = 'ستيكرات غون';
 global.author = '𝐆𝐎𝐍 𝐁𝐎𝐓';
